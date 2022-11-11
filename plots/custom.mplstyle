@@ -1,0 +1,56 @@
+#lines
+lines.linewidth     : 2
+lines.linestyle     : -  
+lines.color         : black
+#sets, among other things, the linewidth in a histogram
+patch.linewidth		: 2
+
+
+#fonts & text
+font.family         : serif
+font.weight         : bold
+font.size           : 14.0
+text.color          : black
+text.usetex         : True
+ 
+#axes & ticks
+axes.edgecolor      : black
+axes.linewidth      : 2.0  
+axes.grid           : False
+axes.titlesize      : xx-large
+axes.labelsize      : xx-large
+axes.labelweight    : bold
+axes.labelcolor     : black
+axes.formatter.limits : -4, 4
+ 
+xtick.major.size     : 10
+xtick.minor.size     : 5
+xtick.major.pad      : 8
+xtick.minor.pad      : 8
+xtick.labelsize      : xx-large
+xtick.minor.width    : 2.0
+xtick.major.width    : 2.0
+xtick.minor.visible  : True  
+
+ytick.major.size     : 10
+ytick.minor.size     : 5
+ytick.major.pad      : 8
+ytick.minor.pad      : 8
+ytick.labelsize      : xx-large
+ytick.minor.width    : 1.0
+ytick.major.width    : 1.0
+ytick.minor.visible  : True  
+
+axes.prop_cycle      : cycler('color',['xkcd:cerulean blue', 'xkcd:scarlet', 'xkcd:dark green', 'xkcd:light orange', 'xkcd:lighter purple', 'xkcd:bright aqua', 'xkcd:dirt brown', 'xkcd:gunmetal', 'xkcd:dark hot pink', 'xkcd:very dark brown'])
+
+#legends
+legend.numpoints     : 1
+legend.fontsize      : x-large
+legend.shadow        : False
+legend.frameon       : True
+legend.fancybox      : True
+
+#figure
+figure.titlesize : xx-large
+figure.figsize   : 10, 8 
+figure.facecolor : 1
