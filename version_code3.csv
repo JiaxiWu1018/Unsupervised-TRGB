@@ -1,0 +1,11 @@
+version,band,smoothing,weighting,ratio_cut,nbt_cut
+1.1,yes,0.1,hatt,1.5,50
+1.2,no,0.05,hatt,0,0
+2.1,yes,0.1,hatt,1.5,50
+3.1,yes,0.1,hatt,1.5,50
+4.1,yes,0.1,hatt,1.5,50
+4.2,yes,0.05,hatt,1.5,50
+4.3,no,0.05,hatt,0,0
+4.4,yes,0.05,hatt,0,0
+4.5,yes,0.1,hatt,0,0
+5.1,yes,0.1,hatt,1.5,50
